@@ -9,9 +9,11 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.1",
+    "@tailwindcss/forms": "^0.4.0",
     "next": "12.0.7",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "react-masked-field": "^2.1.0",
     "react-redux": "^7.2.6",
     "redux": "^4.1.2"
   },
